@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AccessTokenSample</string>
+    <string name="google_sign_in">Google Sign In</string>
+    <string name="user_name">User Name:</string>
+    <string name="email">Email:</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_out_failure_message">Sign out failure, due to:</string>
+    <string name="disconnect_failure_message">Error while disconnecting the account from app, due to:</string>
+</resources>
